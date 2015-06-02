@@ -1,1 +1,1 @@
-alert("Kia ora");
+alert("Kumera");
